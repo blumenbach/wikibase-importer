@@ -1,0 +1,16 @@
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/WbGetEntitiesAction.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/WbGetEntitiesActionData.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/LoginFailedException.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/apierrors/TokenErrorException.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/package-info.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/WikibaseDataEditor.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/ApiConnection.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/apierrors/MediaWikiApiErrorHandler.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/apierrors/NoSuchEntityErrorException.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/StatementUpdate.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/apierrors/EditConflictErrorException.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/apierrors/MediaWikiApiErrorException.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/apierrors/MaxlagErrorException.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/WbEditEntityAction.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/NeedLoginTokenException.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/main/java/org/wikidata/wdtk/wikibaseapi/WikibaseDataFetcher.java

@@ -1,0 +1,3 @@
+rootProject.name = 'wikibase-importer'
+include 'toolkit'
+include 'wdtk-wikibaseapi'

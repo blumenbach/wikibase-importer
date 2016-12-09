@@ -1,0 +1,8 @@
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/test/java/org/wikidata/wdtk/wikibaseapi/WbGetEntitiesActionTest.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/test/java/org/wikidata/wdtk/wikibaseapi/ApiConnectionTest.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/test/java/org/wikidata/wdtk/wikibaseapi/apierrors/MediaWikiApiErrorHandlerTest.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/test/java/org/wikidata/wdtk/wikibaseapi/WikibaseDataFetcherTest.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/test/java/org/wikidata/wdtk/wikibaseapi/StatementUpdateTest.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/test/java/org/wikidata/wdtk/wikibaseapi/WikibaseDataEditorTest.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/test/java/org/wikidata/wdtk/wikibaseapi/WbEditEntitiyActionTest.java
+/home/christopher/IdeaProjects/Wikidata-Toolkit/wdtk-wikibaseapi/src/test/java/org/wikidata/wdtk/wikibaseapi/MockApiConnection.java

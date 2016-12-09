@@ -1,0 +1,24 @@
+group 'org.blume'
+version '0.1-SNAPSHOT'
+
+apply plugin: "application"
+
+repositories {
+    mavenCentral()
+    flatDir {
+        dirs "$rootProject.projectDir/lib"
+    }
+}
+
+mainClassName = "org.blume.wikibase-importer"
+
+description = """Wikibase Importer"""
+
+jar.baseName="wikibase-importer"
+
+dependencies {
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.8.5'
+    compile group: 'org.wikidata.wdtk', name: 'wdtk-datamodel', version: '0.7.0'
+    compile group: 'org.wikidata.wdtk', name: 'wdtk-util', version: '0.7.0'
+
+}

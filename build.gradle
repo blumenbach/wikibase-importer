@@ -1,0 +1,31 @@
+subprojects{
+    apply plugin: 'java'
+    apply plugin: 'maven'
+    apply plugin: 'findbugs'
+    apply plugin: 'pmd'
+
+    group = 'org.blume'
+
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
+    repositories {
+        jcenter()
+        mavenCentral()
+    }
+
+    test { //show test output
+        testLogging.showStandardStreams = true
+    }
+
+    findbugsTest.enabled = false
+
+    findbugs {
+        ignoreFailures = true //don't fail the gradle build if bugs are found
+    }
+
+    pmd {
+        ruleSets = ["java-basic", "java-braces"]
+        ignoreFailures = true //don't fail the gradle build if rules are broken
+    }
+}
